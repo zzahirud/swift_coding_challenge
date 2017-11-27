@@ -3,3 +3,7 @@
 import UIKit
 
 var str = "Hello, playground"
+
+func test(){
+    print("hi")
+}
