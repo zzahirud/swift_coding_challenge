@@ -5,7 +5,7 @@ import UIKit
 var str = "Hello, playground"
 
 func test(){
-    print("hi")
+    print("hi 1")
 }
 
 // Write a function that accepts a String as its only parameter, and returns true if the string has
@@ -14,3 +14,12 @@ func test(){
 func challenge1() {
     
 }
+
+
+//recursion
+
+//reverse name
+
+
+
+
